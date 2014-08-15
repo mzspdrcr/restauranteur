@@ -12,6 +12,7 @@
       "angular-ui-bootstrap-bower": "latest",
       "font-awesome": "latest",
       "weather-icons": "latest",
-      "underscore": "latest"
+      "underscore": "latest",
+      "flot": "0.8.3"
   }
 }

@@ -21,6 +21,8 @@
 //= require main
 //= require underscore
 //= require toastr
+//= require flot
+//= require theme
 
 
 //= require_tree .
