@@ -22,7 +22,5 @@
 //= require underscore
 //= require toastr
 
-//= require app
-//= require ui
 
 //= require_tree .
