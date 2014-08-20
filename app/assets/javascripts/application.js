@@ -10,9 +10,10 @@
 // Read Sprockets README (https://github.com/sstephenson/sprockets#sprockets-directives) for details
 // about supported directives.
 //
-//= require jquery
-//= require jquery_ujs
-
+//= require jquery/jquery
+//= require jquery-migrate/jquery-migrate
+//= require jquery-ui/ui/jquery-ui.custom
+//= require jquery-ui-touch-punch-working/jquery.ui.touch-punch.min.js
 //= require angular/angular
 //= require angular-resource/angular-resource
 //= require angular-route/angular-route
@@ -21,8 +22,17 @@
 //= require main
 //= require underscore
 //= require toastr
-//= require flot
-//= require theme
+//= require flot/jquery.flot
+//= require bootstrap/dist/js/bootstrap.min.js
+//= require modernizr/modernizr
+//= require retinajs/dist/retina.min.js
+//= require flatty/jquery/jquery.min
+//= require flatty/jquery/jquery.mobile.custom.min
+//= require flatty/jquery/jquery-migrate.min
+//= require flatty/jquery/jquery-ui.min
+//= require flatty/bootstrap/bootstrap.min
+//= require flatty/plugins/plugins
+//= require flatty/theme
 
 
 //= require_tree .

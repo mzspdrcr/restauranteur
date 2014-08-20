@@ -34,7 +34,7 @@ end
 
 gem "rspec-rails", "~> 2.14.0"
 
-#gem 'bower-rails'
+gem "compass-rails", "~> 2.0.alpha.0"
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.1.2'
